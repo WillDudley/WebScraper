@@ -1,0 +1,55 @@
+,2018,2017,2016,2015,2014,2013,2012
+TF IDF,1,2,,1,1,1,1
+Jaccard sim of sets,1,2,1,,,1,1
+Jaccard sim of bags,1,1,1,,,1,
+Jaccard sim of bags UB proof,1,1,1,,,1,
+Jaccard distance,1,2,1,,,1,1
+Distance measure proofs,1,1,1,1,1,1,1
+kNN (weighted and unweighted),1,2,2,3,1,2,2
+Edit distance,1,1,1,1,1,1,
+Naive Bayesian,2,2,4,3,1,1,4
+"k-means, obj. function, convergence proof",2,,3,3,,2,2
+Google PageRank,2,3,2,2,,3,3
+Spider traps,2,3,2,,3,3,3
+Linearly seperable data,2,,3,4,,4,
+Margin,3,,3,4,3,4,
+Support vectors and dual form derivation,3,4,3,4,2,4,4
+Hyperplane distance derivation,3,4,,4,2,,4
+Lagrange multipliers,3,,,,,4,
+Multiclass classification,3,3,1,4,,,4
+Precision/Recall/F-Measure,3,3,,2,4,4,
+Graph Laplacian operator,4,3,,4,4,2,2
+Harmonic function,4,,,4,,2,2
+Harmonic function theory,4,,,4,,2,
+Meta algorithm,4,4,4,4,4,4,
+Halving algorithm,4,4,4,,,,
+WM algorithm,4,4,4,4,4,4,
+Halving algorithm mistakes proof,4,4,4,,,,
+WM algorithm mistakes proof,4,,4,4,4,,
+Supervised/unsupervised/semisupervised,,1,1,1,,1,2
+Common learning framework,,1,,,,,
+Adjacency matrix,,1,,,1,,
+Clustering coefficient/radius/diameter of a graph,,1,,,,,
+Minhash definition and proof,,2,,,,,1
+F-measure UB proof,,3,,2,,,
+Dead ends,,3,2,,3,,3
+Laplacian operator proof (Lf=0 implies f constant),,3,,,4,,
+Kernel trick,,4,3,,,,
+Mercer's condition,,4,3,,,,
+Hierarchical clustering,,4,3,,,,2
+Infinity norm,,,1,3,1,,
+L norm (bar infinity),,,2,,,,
+Transition matrix (of the Web),,,2,,3,3,3
+Bonferroni's principle,,,,1,1,,
+Birthday paradox,,,,1,1,,
+TF IDF matrix,,,,1,,,
+Pagerank outlink proof,,,,2,,,
+Graph degree proof,,,,,1,,
+Building a spelling corrector,,,,,2,,
+Pagerank outlink proof,,,,,3,,
+Document-term matrix,,,,,,1,
+k-shingles,,,,,,1,
+Semi-supervised computation,,,,,,2,
+Limiting distribution of surfers,,,,,,3,
+SVM computation,,,,4,3,4,
+Power law,,,,,,,1
