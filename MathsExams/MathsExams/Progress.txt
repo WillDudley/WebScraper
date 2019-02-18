@@ -1,0 +1,8 @@
+23rd Jan
+Started looking at Scrapy for a refresh
+
+24th Jan
+Looked at authentication in Scrapy - needed HTTP auth rather than form filling
+Made scraper more polite with autothrottle, download delays, name and http thing
+For some reason elements in a certain table weren't accessible - no obvious solution online, resorting to url patterns
+

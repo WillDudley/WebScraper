@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<TITLE>Past Examination Papers - </TITLE>
+<link href="/bridge_style/bridgestyle.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<table id="top" width="100%" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" class="top_topcontainer"> <table width="100%" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td align="left"> <form id="kbs" method="get" action="http://www-search.cardiff.ac.uk:8080/search.sim">
+              <table cellpadding="4" cellspacing="0" class="header">
+                <tr> 
+                  <td class="top_logo" rowspan="2" align="center"><a href="http://www.cardiff.ac.uk"><img src="/bridge_images/cu_logo.gif" alt="Cardiff University | 
+Prifysgol Caerdydd" width="63" height="61" border="0"/></a></td>
+                  <td><label for="keyword">Search:</label> <input type="text" name="qt" size="20" maxlength="1000" value="" id="keyword" class="search_text_color1"/> 
+                    <input type="submit" name="go" id="go" value=" go " class="search_button_color1"/></td>
+                </tr>
+                <tr> 
+                  <td><a href="http://www.cardiff.ac.uk/newsevents.html" class="firstheader">News 
+                    &amp; Events</a> | <a href="http://www.cardiff.ac.uk/contactus.html">Contact 
+                    Us</a> | <a href="http://www.cardiff.ac.uk/azindex.html">A-Z 
+                    Index</a> | <span class="notoggle">Cymraeg</span> </td>
+                </tr>
+              </table>
+              <input type="hidden" name="sr" value="0" />
+              <input type="hidden" name="nh" value="10" />
+              <input type="hidden" name="cs" value="iso-8859-1" />
+              <input type="hidden" name="sc" value="cardiff" />
+              <input type="hidden" name="sm" value="0" />
+              <input type="hidden" name="ha" value="0" />
+              <input type="hidden" name="mt" value="1" />
+            </form></td>
+          <td align="right"><img src="/bridge_images/Mainalt2.jpg" width="357" height="83" alt=""/></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td class="top_containermenu" colspan="3"> <a href="http://www.cardiff.ac.uk/index.html">Home</a> 
+      <a href="http://www.cardiff.ac.uk/about/index.html">About&nbsp;the&nbsp;University</a> 
+      <a href="http://www.cardiff.ac.uk/schoolsanddivisions/index.html">Schools&nbsp;&amp;&nbsp;Divisions</a> 
+      <a href="http://www.cardiff.ac.uk/learningandteaching/index.html">Learning&nbsp;&amp;&nbsp;Teaching</a> 
+      <a href="http://www.cardiff.ac.uk/research/index.html">Research</a> <a href="http://www.cardiff.ac.uk/community/index.html">Community&nbsp;&amp;&nbsp;Collaboration</a> 
+    </td>
+  </tr>
+</table>
+<table class="main" width="100%" cellpadding="0" cellspacing="0">
+	<tr>
+
+		<td class="left_menu" valign="top">
+<div class="navimg"><img src="/bridge_images/logoshort.jpg" width="171" height="93" alt="Information Services" 
+/></div>
+<div class="left_menuup"><img class="left_menu" src="/bridge_images/foldere.gif" width="7" height="7" alt="" /><a  title="Divisions" 
+href="http://www.cardiff.ac.uk/schoolsanddivisions/divisions/index.html">Divisions</a></div>
+<div class="left_menu0"><img class="left_menu" src="/bridge_images/foldera.gif" width="7" height="7" alt="" 
+/><a  title="Information Services" href="http://www.cardiff.ac.uk/schoolsanddivisions/divisions/insrv/index.html">Information Services</a></div>
+<div class="left_menu1"><img class="left_menu" 
+src="/bridge_images/folderb.gif" width="7" height="7" alt="" /><a  title="Electronic Resources" 
+href="http://www.cardiff.ac.uk/schoolsanddivisions/divisions/insrv/eresources/index.html">Electronic 
+Resources</a></div>
+<div class="left_menu2"><img class="left_menu" src="/bridge_images/folderc.gif" width="7" height="7" alt="" /><a  title="Databases" 
+href="http://www.cardiff.ac.uk/schoolsanddivisions/divisions/insrv/eresources/databasetable/index.html">Databases</a></div>
+<div class="left_menu2"><span class="current">Past Examination 
+Papers</span></div>
+<div class="left_menu2"><img class="left_menu" src="/bridge_images/folderc.gif" width="7" height="7" alt="" /><a  title="Electronic Reference Collection" 
+href="http://www.cardiff.ac.uk/schoolsanddivisions/divisions/insrv/eresources/reference/index.html">Electronic Reference Collection</a></div>
+<div class="left_menu2"><a  title="Electronic Books" 
+href="http://www.cardiff.ac.uk/schoolsanddivisions/divisions/insrv/eresources/ebooks.html">Electronic Books</a></div><div class="left_menu2"><img class="left_menu" 
+src="/bridge_images/folderc.gif" 
+width="7" height="7" alt="" /><a  title="Current Awareness Services" 
+href="http://www.cardiff.ac.uk/schoolsanddivisions/divisions/insrv/eresources/current/index.html">Current Awareness 
+Services</a></div></td>
+		<td valign="top">
+			<table width="100%" cellpadding="0" cellspacing="0">
+			<tr>
+				<td class="wayfinder" valign="middle">Information Services</td>
+
+			</tr>
+			<tr>
+				<td class="h1" valign="middle"><h1>Past Examination Papers</h1></td>
+			</tr>
+			</table>
+<div class="body">
+<TABLE WIDTH="100%">
+ <TR>
+  <TD ALIGN="left"><H3></H3></TD></TR>
+  <TR><TD ALIGN="left">
+   <FORM METHOD="GET" ACTION="/cgi-bin/papers.pl">
+   <INPUT TYPE="submit" VALUE="Search">
+   <INPUT TYPE="text" NAME="qstring" VALUE="" WIDTH="80">
+   <SELECT NAME="dcode">
+    <OPTION>alldepts
+    <OPTION>archi
+    <OPTION>carbs
+    <OPTION>chemy
+    <OPTION>comsc
+    <OPTION>cplan
+    <OPTION>earth
+    <OPTION>encap
+    <OPTION>engin
+    <OPTION>euros
+    <OPTION>hisar
+    <OPTION>jomec
+    <OPTION>lawpl
+    <OPTION>maths
+    <OPTION>mlang
+    <OPTION>music
+    <OPTION>physx
+    <OPTION>psych
+    <OPTION>relig
+    <OPTION>share
+    <OPTION>socsi
+    <OPTION>welsh
+   </SELECT>
+   </FORM>
+  </TD>
+ </TR>
+</TABLE>
+<HR>
+<TABLE WIDTH="30%">
+</TABLE>
+
+<BR>
+
+</div>
+</td>
+	</tr>
+</table>
+<hr class="footer" />
+<table class="footer" width="100%">
+  <tr valign="top"> 
+    <td> <a href="http://www.cardiff.ac.uk/copyright.html"><strong>&copy; Cardiff 
+      University 2004</strong></a> &nbsp;&nbsp;&nbsp; <a href="http://www.cardiff.ac.uk/privacy.html">Privacy 
+      Policy</a> &nbsp;&nbsp;&nbsp; <a href="http://www.cardiff.ac.uk/terms.html">Terms 
+      of Use</a> &nbsp;&nbsp;&nbsp; <a href="http://www.cardiff.ac.uk/help.html">Help</a></td>
+    <td align="right"> <a href="#top"><img src="/bridge_images/backtotop.gif" alt="Back to top" width="7" height="7" border="0" /></a>&nbsp;&nbsp;<a href="#top">Back 
+      to top</a> </td>
+  </tr>
+</table>
+</body>
+</html>
